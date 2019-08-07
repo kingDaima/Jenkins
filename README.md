@@ -47,6 +47,5 @@ $ nohup java -jar jenkins_located_path/jenkins.war &
 
 ## Read More ...
 
-- [《使用Jenkins搭建iOS/Android持续集成打包平台》]()
-- [《关于持续集成打包平台的Jenkins配置和构建脚本实现细节》]()
-- 微信公众号：[testpu]()
+- 微信公众号：testpu
+-QQ群：330374464
